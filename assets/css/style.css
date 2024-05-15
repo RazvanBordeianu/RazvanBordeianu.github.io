@@ -225,6 +225,10 @@ h1, h2, h3, h4, h5, h6,
     padding-top: 80px;
 }
 
+.padding-top-40 {
+    padding-top: 40px;
+}
+
 .padding-bottom-90 {
     padding-bottom: 90px;
 }
@@ -243,6 +247,10 @@ h1, h2, h3, h4, h5, h6,
 
 .margin-top-50 {
     margin-top: 50px;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
 }
 
 .margin-top-60 {
